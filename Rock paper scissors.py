@@ -32,4 +32,4 @@ while True:
     if replay == "n":
         break
 
-#Hold on, I'm just testing to see if this does anything on GitHub. Doing it again real quick.
+#Hold on, I'm just testing to see if this does anything on GitHub. Doing it again real quick. First heartbeat? Does this count towards the time? Is the Hackatime thing finally working now?!
